@@ -1,0 +1,6 @@
+﻿  JuegoDeTexto.cpp
+C:\Users\ALUMNOS\Desktop\JuegoDeTextoFinal\JuegoDeTextoFinal\JuegoDeTexto\JuegoDeTexto\JuegoDeTexto.cpp(45,20): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\ALUMNOS\Desktop\JuegoDeTextoFinal\JuegoDeTextoFinal\JuegoDeTexto\JuegoDeTexto\JuegoDeTexto.cpp(49,20): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\ALUMNOS\Desktop\JuegoDeTextoFinal\JuegoDeTextoFinal\JuegoDeTexto\JuegoDeTexto\JuegoDeTexto.cpp(112,33): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ALUMNOS\Desktop\JuegoDeTextoFinal\JuegoDeTextoFinal\JuegoDeTexto\JuegoDeTexto\JuegoDeTexto.cpp(123,33): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  JuegoDeTexto.vcxproj -> C:\Users\ALUMNOS\Desktop\JuegoDeTextoFinal\JuegoDeTextoFinal\JuegoDeTexto\x64\Debug\JuegoDeTexto.exe
